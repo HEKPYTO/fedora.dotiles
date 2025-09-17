@@ -1,0 +1,20 @@
+
+font-family = Iosevka Nerd Font Mono
+font-style = Regular
+font-size = 14
+font-thicken = true
+
+theme = tokyonight-storm
+
+shell-integration-features = sudo,no-title
+cursor-style = block
+background-opacity = 0.90
+
+window-height = 28
+window-width = 100
+
+window-padding-x = 4,4
+window-padding-y = 4,4
+
+window-padding-balance = true 
+window-save-state = always
