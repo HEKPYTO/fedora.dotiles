@@ -4,17 +4,17 @@ font-style = Regular
 font-size = 14
 font-thicken = true
 
-theme = tokyonight-storm
+theme = TokyoNight
 
 shell-integration-features = sudo,no-title
 cursor-style = block
-background-opacity = 0.90
+background-opacity = 0.80
 
 window-height = 28
 window-width = 100
 
-window-padding-x = 4,4
-window-padding-y = 4,4
+window-padding-x = 8
+window-padding-y = 8
 
 window-padding-balance = true 
 window-save-state = always
